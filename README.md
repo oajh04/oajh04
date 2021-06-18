@@ -2,7 +2,7 @@
 <div align="center"></div>
 <p><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=250&amp;section=header&amp;text=oajh04's%20GitHub&amp;fontSize=70&amp;animation=scaleIn" referrerpolicy="no-referrer" alt="header"></p>
 <p></p>
-<h3 >Technology Stack📚</h3>
+<h3 >Technology Stack</h3>
 <div align="center">
   <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"><span>
   <img src="https://img.shields.io/badge/CSS3-254bdd?style=flat-square&amp;logo=CSS3&amp;logoColor=white">
