@@ -5,5 +5,6 @@
 <br/><br/><br/>
 
 
-
-![oajh04's most Language](https://github-readme-stats.vercel.app/api?username=oajh04&show_icons=true
+<p align="center">
+![oajh04's most Language](https://github-readme-stats.vercel.app/api?username=oajh04&show_icons=true)
+</p>
