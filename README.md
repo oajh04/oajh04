@@ -1,10 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=oajh04's%20Github&fontSize=80)
-<br/><br/><br/>
-          
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foajh04%2Fhit-counter&count_bg=%23000000&title_bg=%237D3CA8&icon=react.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br/><br/><br/>
-
-
-<p align="center">
-[![oajh04's most Language](https://github-readme-stats.vercel.app/api?username=oajh04&show_icons=true)]
-</p>
+<p>&nbsp;</p>
+<div align="center"></div>
+<p><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=250&amp;section=header&amp;text=oajh04's%20GitHub&amp;fontSize=70&amp;animation=scaleIn" referrerpolicy="no-referrer" alt="header"></p>
+<p></p>
+<h3 >Technology Stack📚</h3>
+<div align="center">
+  <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"><span>
+  <img src="https://img.shields.io/badge/CSS3-254bdd?style=flat-square&amp;logo=CSS3&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=white">
+    <br>
+  <img src="https://img.shields.io/badge/ReactJs-3074bf?style=flat-square&amp;logo=react&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/NextJs-000000?style=flat-square&amp;logo=react&amp;logoColor=white">
+    <br>
+  <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&amp;logo=styled-components&amp;logoColor=white">
+    <img src="https://img.shields.io/badge/EmotionJs-f785d0?style=flat-square&amp;logo=styled-components&amp;logoColor=white">
+  </span></span></div>
+<p>&nbsp;</p>
+<p></p>
+<h3 >My stats </h3>
+<p><img src="https://github-readme-stats.vercel.app/api?username=oajh04&amp;show_icons=true" referrerpolicy="no-referrer" alt="oajh04's GitHub stats">
+<a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oajh04&amp;layout=compact" referrerpolicy="no-referrer" alt="Top Langs"></a></p>
+</div>
