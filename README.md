@@ -1,6 +1,6 @@
 <p>&nbsp;</p>
 <div align="center"></div>
-<p><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=250&amp;section=header&amp;text=oajh04's%20GitHub&amp;fontSize=70&amp;animation=scaleIn" referrerpolicy="no-referrer" alt="header"></p>
+<p><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=250&amp;section=header&amp;text=Happy%20New%20Year&amp;fontSize=70&amp;animation=scaleIn" referrerpolicy="no-referrer" alt="header"></p>
 <p></p>
 <h3 >Technology Stack</h3>
 <div align="center">
