@@ -18,6 +18,6 @@
 <p>&nbsp;</p>
 <p></p>
 <h3 >My stats </h3>
-[![Junho's github stats](https://github-readme-stats.vercel.app/api?username=oajh04&bg_color=90,005bbc,ffd700&title_color=fff&text_color=fff)
-<a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oajh04&amp;layout=compact" referrerpolicy="no-referrer" alt="Top Langs"></a></p>
+<a href="https://nowar.click"><img src="https://github-readme-stats.vercel.app/api?username=oajh04&bg_color=90,005bbc,ffd700&title_color=fff&text_color=fff" /></a>
+<a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oajh04&amp;layout=compact&bg_color=90,005bbc,ffd700&title_color=fff&text_color=fff" referrerpolicy="no-referrer" alt="Top Langs"></a></p>
 </div>
