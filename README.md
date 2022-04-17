@@ -11,6 +11,7 @@
     <br>
   <img src="https://img.shields.io/badge/ReactJs-3074bf?style=flat-square&amp;logo=react&amp;logoColor=white">
   <img src="https://img.shields.io/badge/NextJs-000000?style=flat-square&amp;logo=react&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/VueJs-42b983?style=flat-square&amp;logo=react&amp;logoColor=white">
     <br>
   <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&amp;logo=styled-components&amp;logoColor=white">
     <img src="https://img.shields.io/badge/EmotionJs-f785d0?style=flat-square&amp;logo=styled-components&amp;logoColor=white">
